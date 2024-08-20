@@ -15,6 +15,7 @@ export const data = {
   p3: 'Цифровые квартиры – это инновационный продукт, выпускаемый в формате ЦФА.',
   cfaNumber: 'SMLT-1-DTD-092024-00073',
   cfaPrice: '7000 ₽',
+  cfaPriceNumber: 7000,
   cfaVolume: 'от 35 000 000 ₽ до 175 000 000 ₽',
   cfaVolumeM2: 'от 50 м2 до 250 м2',
   cfaPeriodPayment: 'В конце срока',
